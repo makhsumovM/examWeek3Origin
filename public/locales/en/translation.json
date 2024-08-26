@@ -1,0 +1,43 @@
+{
+    "Home": "Home",
+    "About": "About",
+    "Shop": "Shop",
+    "Portfolio": "Portfolio",
+    "Team": "Team",
+    "Service Single": "Service Single",
+    "HomePage": {
+        "section1": {
+            "p": "100% natural food",
+            "h1": "Choose the best way of life"
+        },
+        "section3": {
+            "h2": "About Us",
+            "h1": "We believe in accredited farmers",
+            "p": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it.",
+            "h3": "Only Organic Products",
+            "p2": "We offer only organic products to help you stay healthy and achieve high performance at work."
+        },
+        "section4": {
+            "h2": "Categories",
+            "h1": "Our Products"
+        },
+        "section5": {
+            "h2": "Review",
+            "h1": "What our client says?",
+            "p": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it."
+        },
+        "section6": {
+            "h1": "We offer organic for you"
+        },
+        "section7": {
+            "h2": "Eco-friendly",
+            "h1": "Products with high quality standards",
+            "p": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it.",
+            "h2_2": "Learn how to grow yourself"
+        },
+        "section9": {
+            "p": "News",
+            "h2": "Discover weekly content about organic food and more."
+        }
+    }
+}
