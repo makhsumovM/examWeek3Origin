@@ -23,7 +23,7 @@ import { useTranslation } from "react-i18next"
 
 
 const Home = () => {
-  const{t} = useTranslation( )
+  const{t} = useTranslation()
   return (
   <div>
     <div className="h-[100vh] bg-cover bg-center flex items-center justify-center md:justify-start " style={{backgroundImage:`url(${section1Bg})`}}>

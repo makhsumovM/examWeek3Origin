@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom'
 import FileBase64 from 'react-file-base64';
 import { Button } from '@mui/material';
 
+
 const UsersById = () => {
     const params = useParams();
     const api = "https://66a27283967c89168f2022db.mockapi.io/Api/v1/Users"
